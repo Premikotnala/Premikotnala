@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Premikotnala
 - 👀 I’m interested in Web development
-- 🌱 I’m currently pursuing B-Tech 2nd year
+- 🌱 I’m currently pursuing B-Tech 3rd year
 - 📫 reach me through premikotnala@gmail.com
 
 <!---
